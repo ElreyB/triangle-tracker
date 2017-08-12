@@ -1,8 +1,34 @@
-.panel-body {
-  background-color: #bce8f1;
-}
-
 img {
   height: 300px;
   width: 300px;
+}
+
+#result {
+  display: none;
+}
+
+
+body {
+  background-image: url(../img/backMath.jpg);
+}
+
+
+.page-header {
+  background-color: rgba(255, 255, 255, 0.8);
+  top: calc(50% - 277px);
+  width: 480px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  text-align: center;
+}
+
+.panel {
+  background-color: rgba(255, 255, 255, 0.8);
+  height: 265px;
+  width: 300px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
 }

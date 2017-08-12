@@ -1,3 +1,8 @@
 .panel-body {
   background-color: #bce8f1;
 }
+
+img {
+  height: 300px;
+  width: 300px;
+}

@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
     <link rel="stylesheet" href="css/styles.css" type="text/css">
     <script src="js/jquery-3.2.1.js"></script>
-    <script src="js/script.js"></script>
+    <script src="js/scripts.js"></script>
     <title>Triangle Tracker</title>
   </head>
   <body>
@@ -15,26 +15,28 @@
       <div class="panel panel-default">
         <div class="panel-body">
           <form id="triForm">
-            <div class="form-body">
+            <div class="form-body side1">
               <label for="side1">Side 1:</label>
               <input id="side1" class="form-control" type="text">
             </div>
-            <div class="form-body">
+            <div class="form-body side2">
               <label for="side2">Side 2:</label>
               <input id="side2" class="form-control" type="text">
             </div>
-            <div class="form-body">
+            <div class="form-body side3">
               <label for="side3">Side 3:</label>
               <input id="side3" class="form-control" type="text">
             </div>
             <br>
             <button type="submit" class="btn">Enter</button>
+            <br>
+            <span id="helpBlock" class="help-inline">please type in a number in each field</span>
           </form>
         </div>
       </div>
 
-      <div id="result" class="well">
-        <div class="thumbnail">
+      <div id="result">
+        <div class="thumbnail equal">
           <img src="img/equilateral.png" alt="equilateral triangle">
           <div class="caption">
             <h2>Equilateral</h2>

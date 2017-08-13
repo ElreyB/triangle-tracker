@@ -5,6 +5,12 @@ img {
 
 .thumbnail {
   display: none;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(255, 255, 255, 0.9);
 }
 
 span {
@@ -29,7 +35,7 @@ body {
 
 .panel {
   background-color: rgba(255, 255, 255, 0.8);
-  height: 275px;
+  height: 290px;
   width: 300px;
   top: 50%;
   left: 50%;

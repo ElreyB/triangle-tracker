@@ -7,14 +7,23 @@ $(document).ready(function(){
     console.log(side1Input);
     console.log(side2Input);
     console.log(side3Input);
-    $("#triForm, thumbnail, .panel").hide();
+    $("#triForm, .thumbnail, .panel, .page-header").hide();
 // for debugging
     var equilateral = (side1Input === side2Input) && (side2Input === side3Input);
+    var isosceles = (side1Input === side2Input) || (side1Input === side3Input) || (side2Input === side3Input);
+    var scalene = (side1Input !== side2Input) && (side1Input !== side3Input) && (side2Input !== side3Input);
+    var nonTriangle = (side1Input + side2Input) <= side3Input || (side1Input + side3Input) <= side2Input || (side2Input + side3Input) <= side1Input;
 
-    // console.log(equilateral);
+    console.log(nonTriangle);
 
     if (equilateral) {
-      $(".equal").show();
+      $(".all-equal").show();
+    } else if (nonTriangle) {
+      $("#triForm, .page-header, .non-triangle, .panel").show();
+    } else if (scalene) {
+      $(".no-equal").show();
+    } else if (isosceles) {
+      $(".two-equal").show();
     }
       event.preventDefault();
   });

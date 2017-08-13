@@ -17,26 +17,27 @@
           <form id="triForm">
             <div class="form-body side1">
               <label for="side1">Side 1:</label>
-              <input id="side1" class="form-control" type="text">
+              <input id="side1" class="form-control" type="number" min="1" step="0.1">
             </div>
             <div class="form-body side2">
               <label for="side2">Side 2:</label>
-              <input id="side2" class="form-control" type="text">
+              <input id="side2" class="form-control" type="number" min="1" step="0.1">
             </div>
             <div class="form-body side3">
               <label for="side3">Side 3:</label>
-              <input id="side3" class="form-control" type="text">
+              <input id="side3" class="form-control" type="number" min="1" step="0.1">
             </div>
             <br>
             <button type="submit" class="btn">Enter</button>
             <br>
-            <span id="helpBlock" class="help-inline">please type in a number in each field</span>
+            <span id="helpBock" class="help-line non-triangle">These numbers will not make a triangle. Enter different numbers.</span>
+            <span id="helpBlock" class="help-inline">please type in a number in each field.</span>
           </form>
         </div>
       </div>
 
       <div id="result">
-        <div class="thumbnail equal">
+        <div class="thumbnail all-equal">
           <img src="img/equilateral.png" alt="equilateral triangle">
           <div class="caption">
             <h2>Equilateral</h2>
@@ -44,7 +45,7 @@
             <p><a href="https://en.wikipedia.org/wiki/Equilateral_triangle" class="btm-default" role="button">More..</a></p>
           </div>
         </div>
-        <div class="thumbnail">
+        <div class="thumbnail two-equal">
           <img src="img/isosceles.png" alt="isosceles triange">
           <div class="caption">
             <h2>Isosceles Triangle</h2>
@@ -52,7 +53,7 @@
             <p><a href="https://en.wikipedia.org/wiki/Isosceles_triangle" role="button">More..</a></p>
           </div>
         </div>
-        <div class="thumbnail">
+        <div class="thumbnail no-equal">
           <img src="img/scalene.png" alt="scalene triange">
           <div class="caption">
             <h2>Scalene Triangle</h2>

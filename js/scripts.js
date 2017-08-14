@@ -5,6 +5,8 @@ $(document).ready(function(){
     var side2Input = parseInt($("#side2").val());
     var side3Input = parseInt($("#side3").val());
 
+  $(".empty, #empty3, #empty2, #empty1").hide();
+
     if (isNaN(side1Input)) {
       $(".side1").addClass("has-error");
       $("#empty1, .empty").show();
@@ -37,9 +39,10 @@ $(document).ready(function(){
     }
   });
 // WIP reset button to reset span tags as well
-  // $("button.reset").click(function()){
-  //   $(".span").hide();
-  // };
+  $(".reset").click(function(){
+    $(".help-inline, .empty, #empty3, #empty2, #empty1").hide();
+    $(".has-error").removeClass();
+  });
 
   $(".return").click(function(){
     $(".thumbnail").hide();

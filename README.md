@@ -6,28 +6,38 @@
 
 ## Description
 
-This page will determine if the three numbers give will make a triangle and what basic type of triangle it is.
+This page will determine if the three numbers will make a triangle and what basic type of triangle it is. This is based on these definitions:
+
+* Equilateral: All sides are equal.
+
+* Isosceles: Exactly 2 sides are equal.
+
+* Scalene: No sides are equal.
+
+* NOT a triangle: The sum of the lengths of any two sides of a triangle is less than or equal to the length of the third side.
 
 ## Setup/Installation Requirements
 
-* Clone this repository
+* Clone this repository ![image](https://user-images.githubusercontent.com/20192033/29261713-d5713260-8085-11e7-9518-707c7fcaab67.png)
 
-![image](https://user-images.githubusercontent.com/20192033/29261713-d5713260-8085-11e7-9518-707c7fcaab67.png)
+* In your terminal us "git clone (repository url)"
+
+* Click on the index.html file to open or go to https://elreyb.github.io/triangle-tracker/
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+No known bugs
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+Feel free to contact me at elbelmonti@gmail.com
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_HTML CSS Javascript jQuery Bootstrap_
 
 ### License
 
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_Elrey C. Belmonti_**

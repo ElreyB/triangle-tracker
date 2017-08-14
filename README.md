@@ -11,8 +11,8 @@ This page will determine if the three numbers give will make a triangle and what
 ## Setup/Installation Requirements
 
 * Clone this repository
-![Alt text](/../img/clone.png?raw=true "Optional Title")
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+
+![image](https://user-images.githubusercontent.com/20192033/29261713-d5713260-8085-11e7-9518-707c7fcaab67.png)
 
 ## Known Bugs
 

@@ -41,6 +41,10 @@ $(document).ready(function(){
     } else if (isosceles) {
       $(".two-equal").show();
     }
+  });
 
+  $("#return").click(function(){
+    $(".thumbnail").hide();
+    $("#triForm, .page-header, .panel").show();
   });
 });

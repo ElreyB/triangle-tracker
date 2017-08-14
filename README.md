@@ -1,36 +1,36 @@
-# Triangle Tracker
+# _Triangle Tracker_
 
-#### Branching exercise for Epicodus, 08.13.2017
+#### _Branching exercise for Epicodus, 08.13.2017_
 
-#### By Elrey C. Belmonti
+#### By _**Elrey C. Belmonti**_
 
 ## Description
 
-This page will determine if the three numbers will make a triangle and what basic type of triangle it is. This is based on these definitions:
+_This page will determine if the three numbers will make a triangle and what basic type of triangle it is. This is based on these definitions:_
 
-* Equilateral: All sides are equal.
+* _Equilateral: All sides are equal._
 
-* Isosceles: Exactly 2 sides are equal.
+* _Isosceles: Exactly 2 sides are equal._
 
-* Scalene: No sides are equal.
+* _Scalene: No sides are equal._
 
-* NOT a triangle: The sum of the lengths of any two sides of a triangle is less than or equal to the length of the third side.
+* _NOT a triangle: The sum of the lengths of any two sides of a triangle is less than or equal to the length of the third side._
 
 ## Setup/Installation Requirements
 
-* Clone this repository ![image](https://user-images.githubusercontent.com/20192033/29261713-d5713260-8085-11e7-9518-707c7fcaab67.png)
+* _Clone this repository_ ![image](https://user-images.githubusercontent.com/20192033/29261713-d5713260-8085-11e7-9518-707c7fcaab67.png)
 
-* In your terminal us "git clone (repository url)"
+* _In your terminal us "git clone (repository url)"_
 
-* Click on the index.html file to open or go to https://elreyb.github.io/triangle-tracker/
+* _Click on the index.html file to open or go to_ https://elreyb.github.io/triangle-tracker/
 
 ## Known Bugs
 
-No known bugs
+_No known bugs_
 
 ## Support and contact details
 
-Feel free to contact me at elbelmonti@gmail.com
+_Feel free to contact me at elbelmonti@gmail.com_
 
 ## Technologies Used
 

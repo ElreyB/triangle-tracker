@@ -1,21 +1,17 @@
-# _{Application Name}_
+# Triangle Tracker
 
-#### _{Brief description of application}, {Date of current version}_
+#### Branching exercise for Epicodus, 08.13.2017
 
-#### By _**{List of contributors}**_
+#### By Elrey C. Belmonti
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+This page will determine if the three numbers give will make a triangle and what basic type of triangle it is.
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
+* Clone this repository
+![Alt text](/../img/clone.png?raw=true "Optional Title")
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs

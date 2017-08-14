@@ -43,7 +43,7 @@ $(document).ready(function(){
     }
   });
 
-  $("#return").click(function(){
+  $(".return").click(function(){
     $(".thumbnail").hide();
     $("#triForm, .page-header, .panel").show();
   });

@@ -1,8 +1,8 @@
 # _Triangle Tracker_
 
-#### _Branching exercise for Epicodus, 08.13.2017_
+#### _Branching exercise for Epicodus, 08.20.2017_
 
-#### By _**Elrey C. Belmonti**_
+#### By _**Elrey Belmonti**_
 
 ## Description
 
@@ -24,9 +24,9 @@ _This page will determine if the three numbers will make a triangle and what bas
 
 * _Click on the index.html file to open or go to_ https://elreyb.github.io/triangle-tracker/
 
-## Known Bugs
+## Known Bugs 🐛🐛🐛
 
-_No known bugs_
+No known bugs
 
 ## Support and contact details
 
@@ -34,10 +34,19 @@ _Feel free to contact me at elbelmonti@gmail.com_
 
 ## Technologies Used
 
-_HTML CSS Javascript jQuery Bootstrap_
+* _HTML_
+* _CSS_
+* _Javascript/jQuery_
+* _Bootstrap_
 
-### License
+## Contributors
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+<!-- Contributors START
+Elrey_Belmonti ElreyB https://github.com/ElreyB code doc bug design
 
-Copyright (c) 2016 **_Elrey C. Belmonti_**
+Contributors END -->
+<!-- Contributors table START -->
+| <img src="https://avatars.githubusercontent.com/ElreyB?s=100" width="100" alt="Elrey Belmonti" /><br /><sub>Elrey Belmonti</sub>](https://github.com/ElreyB)<br />[💻](https://github.com/ElreyB/triangle-tracker/commits?author=ElreyB) [📖](https://github.com/ElreyB/triangle-tracker/commits?author=ElreyB) [🐛](https://github.com/ElreyB/triangle-tracker/issues?q=author%3AElreyB) 🎨 | <img src="https://avatars.githubusercontent.com/undefined?s=100" width="100" alt="" /><br /><sub></sub>](undefined)<br /> |
+| :---: | :---: |
+<!-- Contributors table END -->
+This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification.

@@ -43,10 +43,9 @@ _Feel free to contact me at elbelmonti@gmail.com_
 
 <!-- Contributors START
 Elrey_Belmonti ElreyB https://github.com/ElreyB code doc bug design
-
 Contributors END -->
 <!-- Contributors table START -->
-| <img src="https://avatars.githubusercontent.com/ElreyB?s=100" width="100" alt="Elrey Belmonti" /><br /><sub>Elrey Belmonti</sub>](https://github.com/ElreyB)<br />[💻](https://github.com/ElreyB/triangle-tracker/commits?author=ElreyB) [📖](https://github.com/ElreyB/triangle-tracker/commits?author=ElreyB) [🐛](https://github.com/ElreyB/triangle-tracker/issues?q=author%3AElreyB) 🎨 | <img src="https://avatars.githubusercontent.com/undefined?s=100" width="100" alt="" /><br /><sub></sub>](undefined)<br /> |
+| <img src="https://avatars.githubusercontent.com/ElreyB?s=100" width="100" alt="Elrey Belmonti" /><br />[<sub>Elrey Belmonti</sub>](https://github.com/ElreyB)<br />[💻](https://github.com/ElreyB/triangle-tracker/commits?author=ElreyB) [📖](https://github.com/ElreyB/triangle-tracker/commits?author=ElreyB) [🐛](https://github.com/ElreyB/triangle-tracker/issues?q=author%3AElreyB) 🎨 | 
 | :---: | :---: |
 <!-- Contributors table END -->
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification.

@@ -1,3 +1,7 @@
+function resetFills(){
+  $("#side1, #side2, #side3").val("");
+}
+
 $(document).ready(function(){
   $("#triForm").submit(function(event){
     event.preventDefault();
@@ -47,6 +51,7 @@ $(document).ready(function(){
   });
 
   $(".return").click(function(){
+    resetFills();
     $(".thumbnail").hide();
     $("#triForm, .page-header, .panel").show();
   });
